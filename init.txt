@@ -1,0 +1,39 @@
+2 folders client & server
+
+1. BE
+node -v
+npm -v
+npm init
+
+npm install express dotenv mongoose nanoid@3.0.0 cors
+
+npm i typescript -D
+npm i nodemon -D
+npx tsc --init
+
+change output dir to dost in tsconfig.json
+  "outDir": "./dist"
+
+npm i @types/express @types/cors @types/mongoose @types/node -D
+
+npm run build
+npm start
+npm i ts-node -D
+
+npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
