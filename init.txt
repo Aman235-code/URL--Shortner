@@ -23,6 +23,12 @@ npm i ts-node -D
 npm run dev
 
 
+F.E Part
+npm create vite@latest
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+
 
 
 
